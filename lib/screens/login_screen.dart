@@ -248,17 +248,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
                   const SizedBox(height: 10),
 
-                  const Text(
-                    'Administrator:\n'
-                        'admin@autoparts.local\n'
-                        'Password: admin123\n\n'
-                        'Customer:\n'
-                        'customer@example.com\n'
-                        'Password: customer123',
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontSize: 13,
-                      color: Colors.grey,
+                
                     ),
                   ),
                 ],
