@@ -235,19 +235,6 @@ class _LoginScreenState extends State<LoginScreen> {
 
                   const SizedBox(height: 25),
 
-                  // DEMO ACCOUNT INFORMATION
-                  const Divider(),
-
-                  const Text(
-                    'Demo Login Accounts',
-                    textAlign: TextAlign.center,
-                    style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-
-                  const SizedBox(height: 10),
-
                 
                     ),
                   ),
